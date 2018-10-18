@@ -127,6 +127,38 @@
 	height: 10px;
 }
 
+.historias{
+	width: 100%;
+	margin: 40px 0;
+}
+
+.historias01{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: stretch;
+}
+
+.historias01 img{
+	margin: 0 0 10px 0;
+}
+
+.historias02{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.historias02 img{
+	margin: 0 0 52px 0;
+}
+
+.historias02 img:last-child{
+	margin: 0;
+}
 
 
 
