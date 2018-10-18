@@ -1,0 +1,108 @@
+/* navigation */
+.navigator {
+    height: 100%;
+    width: 280px;
+    background-color: #171717;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    position: fixed;
+    overflow-y: auto;
+    overflow-x: visible;
+    transform: translate(-280px,0);
+    z-index: 20;
+}
+/* overlay layer */
+.ssm-overlay {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.2);
+    display: none;
+    z-index: 1;
+}
+
+/* prevent scroll when nav is open */
+.is-navOpen{
+  overflow: hidden;
+}
+
+
+.icon-mobile{
+    font-size: 3em;
+    color: #171717;
+    float: right !important;
+    margin: 0px 0px 0 70px;
+}
+
+.icon-mobile:hover{
+    text-decoration: none;
+    color: #ccc;
+}
+
+
+.nav-logo img{
+    margin: 20px 0;
+    width: 150px;
+}
+
+.menu-mobile{
+    width: 100%;
+}
+
+.menu-mobile ul{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-mobile ul li{
+    width: 100%;
+    list-style: none;
+}
+
+.menu-mobile ul li a{
+    width: 100%;
+    text-align: left;
+    float: left;
+    font-size: 1.9em;
+    padding: 5px 0 0 20px;
+    color: #fff;
+}
+
+.menu-mobile ul li a:hover{
+    color: #f79220;
+}
+
+.nav-fechar{
+    float: left;
+    width: 100%;
+    display: block;  
+    margin: 30px 0 0 0;
+}
+
+.nav-fechar a{
+    color: #f79220;
+    font-size: 1.5em;
+}
+
+
+/**************************************************************************************************/
+@media screen and (min-width: 720px) {
+
+.icon-mobile{
+    font-size: 3em;
+    color: #fff;
+    float: right;
+    margin: 0px 8px 0 0;
+}
+
+.icon-mobile:hover{
+    text-decoration: none;
+    color: #ccc;
+}
+
+
+}
