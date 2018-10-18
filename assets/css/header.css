@@ -21,9 +21,9 @@
 }
 
 .logo img{
-	width: 100px;
+	width: 120px;
 	float: left;
-	margin: 15px 0 0 0;
+	margin: 7px 0 8px 0;
 }
 
 
@@ -32,6 +32,9 @@
 }
 
 
+.icon-menu{
+	display: none;
+}
 
 
 
@@ -124,6 +127,25 @@
     -webkit-transform: translateY(-5px);
     transform: translateY(-5px);
 }
+
+.icon-mobile{
+	display: none;
+}
+
+.icon-menu{
+	display: block;
+    font-size: 3em;
+    color: #fff;
+    float: right;
+    margin: 0px 8px 0 0;
+}
+
+.icon-menu:hover{
+    text-decoration: none;
+    color: #ccc;
+}
+
+
 
 
 

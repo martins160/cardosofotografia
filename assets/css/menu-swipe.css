@@ -31,10 +31,10 @@
 
 
 .icon-mobile{
-    font-size: 3em;
+    font-size: 2.3em;
     color: #171717;
-    float: right !important;
-    margin: 0px 0px 0 70px;
+    float: right;
+    margin: 2px 0px 0 0px;
 }
 
 .icon-mobile:hover{
@@ -93,16 +93,7 @@
 @media screen and (min-width: 720px) {
 
 .icon-mobile{
-    font-size: 3em;
-    color: #fff;
-    float: right;
-    margin: 0px 8px 0 0;
+    display: none;
 }
-
-.icon-mobile:hover{
-    text-decoration: none;
-    color: #ccc;
-}
-
 
 }
