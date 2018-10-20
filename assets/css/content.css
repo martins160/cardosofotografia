@@ -293,6 +293,27 @@
 	margin: 20px auto 30px auto;
 }
 
+/*INSTAGRAM*/
+
+.instagram{
+	width: 100%;
+}
+
+.instagram-hashtag{
+	color: #171717;
+	font-size: 2.2em;
+	float: left;
+	padding: 0 0 0 15px;
+	margin: 30px 0 0 20px;
+	border-left: 7px solid #171717;
+}
+
+.instagram-line-feed{
+	width: 100%;
+	margin: 30px 0 0 0;
+}
+
+
 
 
 
@@ -636,6 +657,11 @@
 	padding: 0 0 0 15px;
 	margin: 30px 0 0 20px;
 	border-left: 7px solid #171717;
+}
+
+.instagram-line-feed{
+	width: 100%;
+	margin: 30px 0 0 0;
 }
 
 
