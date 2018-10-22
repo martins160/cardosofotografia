@@ -1,0 +1,51 @@
+.slider-page{
+	display: block;
+	overflow: hidden;
+	width: 100%;
+}
+
+.pages{
+	padding: 30px 0;
+}
+
+.pages-titu{
+	font-size: 1.5em;
+	margin: 0 0 20px 0;
+}
+
+.pages-serv{
+	text-align: left;
+	font-size: 1.4em;
+	margin: 20px 0;
+}
+
+
+/**************************************************************************************************/
+@media screen and (min-width: 720px) {
+
+
+.slider-page{
+	display: block;
+	position: relative !important;
+	height: 190px;
+	background-image: url(../images/bg/04.jpg);
+	background-position: center;
+}
+
+.pages{
+	padding: 30px 0;
+}
+
+.pages-titu{
+	font-size: 2.7em;
+	margin: 0 0 20px 0;
+}
+
+.pages-serv{
+	text-align: left;
+	font-size: 2.1em;
+	margin: 20px 0;
+}
+
+
+}

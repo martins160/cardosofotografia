@@ -10,7 +10,7 @@
 
 .algumashistorias-social a{
 	color: #171717;
-	font-size: 3em;
+	font-size: 2.5em;
 	margin: 0 10px;
 }
 
@@ -25,7 +25,7 @@
 	background-color: #171717;
 	padding: 5px 10px;
 	border-radius: 7px;
-	font-size: 2em;
+	font-size: 1.4em;
 	width: 280px;
 	margin: 0 auto 20px auto;
 }
@@ -47,7 +47,7 @@
 .algumashistorias-cat ul li a{
 	color: #171717;
 	margin: 0 10px;
-	font-size: 1.5em;
+	font-size: 1.2em;
 }
 
 
@@ -136,7 +136,7 @@
 
 .historias-txt1{
 	top: 37%;
-	font-size: 1.3em
+	font-size: .8em
 }
 
 
@@ -176,7 +176,7 @@
 
 .historias2-txt1{
 	top: 37%;
-	font-size: 1.3em
+	font-size: .8em
 }
 
 
@@ -255,7 +255,7 @@
 
 .historias3-txt1{
 	top: 37%;
-	font-size: 1.3em
+	font-size: .8em
 }
 
 
@@ -268,14 +268,14 @@
 	background-color: #171717;
 	padding: 5px 10px;
 	border-radius: 7px;
-	font-size: 2em;
+	font-size: 1.3em;
 	width: 280px;
 	margin: 20px auto 30px auto;
 }
 
 .sobrenos-txt{
 	padding: 20px 0;
-	font-size: 1.3em;
+	font-size: 1em;
 }
 
 
@@ -288,7 +288,7 @@
 	background-color: #171717;
 	padding: 5px 10px;
 	border-radius: 7px;
-	font-size: 2em;
+	font-size: 1.5em;
 	width: 280px;
 	margin: 20px auto 30px auto;
 }
@@ -301,7 +301,7 @@
 
 .instagram-hashtag{
 	color: #171717;
-	font-size: 2.2em;
+	font-size: 1.4em;
 	float: left;
 	padding: 0 0 0 15px;
 	margin: 30px 0 0 20px;
@@ -333,7 +333,7 @@
 
 .algumashistorias-social a{
 	color: #171717;
-	font-size: 3em;
+	font-size: 2.5em;
 	margin: 0 10px;
 }
 
@@ -346,10 +346,10 @@
 .algumashistorias-titu{
 	color: #fff;
 	background-color: #171717;
-	padding: 5px 10px;
+	padding: 7px 10px;
 	border-radius: 7px;
-	font-size: 3em;
-	width: 300px;
+	font-size: 2.5em;
+	width: 410px;
 	margin: 0 auto 20px auto;
 }
 
@@ -370,7 +370,7 @@
 .algumashistorias-cat ul li a{
 	color: #171717;
 	margin: 0 10px;
-	font-size: 1.3em;
+	font-size: 1.1em;
 }
 
 
@@ -457,7 +457,7 @@
 
 .historias-txt1{
 	top: 40%;
-	font-size: 1.3em
+	font-size: .8em
 }
 
 
@@ -512,7 +512,7 @@
 
 .historias2-txt1{
 	top: 40%;
-	font-size: 1.3em
+	font-size: .8em
 }
 
 
@@ -594,7 +594,7 @@
 
 .historias3-txt1{
 	top: 40%;
-	font-size: 1.3em
+	font-size: .8em
 }
 
 
@@ -610,10 +610,10 @@
 .sobrenos-titu{
 	color: #fff;
 	background-color: #171717;
-	padding: 5px 10px;
+	padding: 7px 10px;
 	border-radius: 7px;
-	font-size: 3em;
-	width: 300px;
+	font-size: 2.5em;
+	width: 470px;
 	margin: -30px auto 20px auto;
 }
 
@@ -627,7 +627,7 @@
 
 .sobrenos-txt{
 	padding: 30px 0;
-	font-size: 1.7em;
+	font-size: 1.2em;
 }
 
 
@@ -643,16 +643,16 @@
 .instagram-titu{
 	color: #fff;
 	background-color: #171717;
-	padding: 5px 10px;
+	padding: 7px 10px;
 	border-radius: 7px;
-	font-size: 3em;
+	font-size: 2.5em;
 	width: 300px;
 	margin: 60px auto 50px auto;
 }
 
 .instagram-hashtag{
 	color: #171717;
-	font-size: 2.2em;
+	font-size: 1.5em;
 	float: left;
 	padding: 0 0 0 15px;
 	margin: 30px 0 0 20px;
